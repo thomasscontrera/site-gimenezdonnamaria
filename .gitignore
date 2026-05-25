@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Upload artifacts soltos na raiz (originais já estão organizados em assets/)
+/2c3a856a-1bc7-48c8-b7fe-765e98a8a705.png
+/bcad612d-24c3-473a-92e4-7107b64cb6c4.png
+/d233fa78-013e-40bb-a157-f14acbcf6747.png
+/Captura de Tela*.png
+/WhatsApp Image*.jpeg
+/WhatsApp Image*.jpg
